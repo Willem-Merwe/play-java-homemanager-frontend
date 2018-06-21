@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(G:\play-java-homemanager-frontend\conf\application.conf,G:\play-java-homemanager-frontend\target\scala-2.12\classes\application.conf)
+[debug] 	(G:\play-java-homemanager-frontend\conf\logback.xml,G:\play-java-homemanager-frontend\target\scala-2.12\classes\logback.xml)
+[debug] 	(G:\play-java-homemanager-frontend\conf\routes,G:\play-java-homemanager-frontend\target\scala-2.12\classes\routes)
